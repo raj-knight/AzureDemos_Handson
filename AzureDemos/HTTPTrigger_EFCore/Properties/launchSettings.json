@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HTTPTrigger_EFCore": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7049",
+      "launchBrowser": false
+    }
+  }
+}

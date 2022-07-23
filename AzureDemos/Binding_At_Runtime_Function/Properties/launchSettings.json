@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Binding_At_Runtime_Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7231",
+      "launchBrowser": false
+    }
+  }
+}
