@@ -1,0 +1,15 @@
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\bin\Debug\net6.0\Generate_SAS_Token_EventHub_Postman.exe
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\bin\Debug\net6.0\Generate_SAS_Token_EventHub_Postman.deps.json
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\bin\Debug\net6.0\Generate_SAS_Token_EventHub_Postman.runtimeconfig.json
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\bin\Debug\net6.0\Generate_SAS_Token_EventHub_Postman.dll
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\bin\Debug\net6.0\Generate_SAS_Token_EventHub_Postman.pdb
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\obj\Debug\net6.0\Generate_SAS_Token_EventHub_Postman.csproj.AssemblyReference.cache
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\obj\Debug\net6.0\Generate_SAS_Token_EventHub_Postman.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\obj\Debug\net6.0\Generate_SAS_Token_EventHub_Postman.AssemblyInfoInputs.cache
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\obj\Debug\net6.0\Generate_SAS_Token_EventHub_Postman.AssemblyInfo.cs
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\obj\Debug\net6.0\Generate_SAS_Token_EventHub_Postman.csproj.CoreCompileInputs.cache
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\obj\Debug\net6.0\Generate_SAS_Token_EventHub_Postman.dll
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\obj\Debug\net6.0\refint\Generate_SAS_Token_EventHub_Postman.dll
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\obj\Debug\net6.0\Generate_SAS_Token_EventHub_Postman.pdb
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\obj\Debug\net6.0\Generate_SAS_Token_EventHub_Postman.genruntimeconfig.cache
+C:\GITWorkspace\Demos\AzureDemos\Generate_SAS_Token_EventHub_Postman\obj\Debug\net6.0\ref\Generate_SAS_Token_EventHub_Postman.dll

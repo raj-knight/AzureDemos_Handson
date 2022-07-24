@@ -1,0 +1,15 @@
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\bin\Debug\net6.0\C_Sharp_Features.exe
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\bin\Debug\net6.0\C_Sharp_Features.deps.json
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\bin\Debug\net6.0\C_Sharp_Features.runtimeconfig.json
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\bin\Debug\net6.0\C_Sharp_Features.dll
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\bin\Debug\net6.0\C_Sharp_Features.pdb
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\obj\Debug\net6.0\C_Sharp_Features.csproj.AssemblyReference.cache
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\obj\Debug\net6.0\C_Sharp_Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\obj\Debug\net6.0\C_Sharp_Features.AssemblyInfoInputs.cache
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\obj\Debug\net6.0\C_Sharp_Features.AssemblyInfo.cs
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\obj\Debug\net6.0\C_Sharp_Features.csproj.CoreCompileInputs.cache
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\obj\Debug\net6.0\C_Sharp_Features.dll
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\obj\Debug\net6.0\refint\C_Sharp_Features.dll
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\obj\Debug\net6.0\C_Sharp_Features.pdb
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\obj\Debug\net6.0\C_Sharp_Features.genruntimeconfig.cache
+C:\GITWorkspace\Demos\AzureDemos\C_Sharp_Features\obj\Debug\net6.0\ref\C_Sharp_Features.dll

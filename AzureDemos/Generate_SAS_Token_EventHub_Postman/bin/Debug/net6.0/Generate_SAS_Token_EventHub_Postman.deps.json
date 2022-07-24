@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Generate_SAS_Token_EventHub_Postman/1.0.0": {
+        "runtime": {
+          "Generate_SAS_Token_EventHub_Postman.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generate_SAS_Token_EventHub_Postman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

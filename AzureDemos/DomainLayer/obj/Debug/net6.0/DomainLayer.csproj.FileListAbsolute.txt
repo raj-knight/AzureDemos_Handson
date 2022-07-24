@@ -1,0 +1,12 @@
+C:\GITWorkspace\Demos\AzureDemos\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+C:\GITWorkspace\Demos\AzureDemos\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\GITWorkspace\Demos\AzureDemos\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\GITWorkspace\Demos\AzureDemos\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+C:\GITWorkspace\Demos\AzureDemos\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITWorkspace\Demos\AzureDemos\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+C:\GITWorkspace\Demos\AzureDemos\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+C:\GITWorkspace\Demos\AzureDemos\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\GITWorkspace\Demos\AzureDemos\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+C:\GITWorkspace\Demos\AzureDemos\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+C:\GITWorkspace\Demos\AzureDemos\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+C:\GITWorkspace\Demos\AzureDemos\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
